@@ -1,0 +1,10 @@
+{
+  "name": "zerofill",
+  "description": "Zero-pad a number to the given size.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "license": "CC BY 3.0"
+}

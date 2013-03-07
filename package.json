@@ -1,0 +1,30 @@
+{
+	"name": "zerofill",
+	"version": "0.1.0",
+	"description": "Zero-pad a number to the given size.",
+	"contributors": [
+		{
+			"name": "Matthew Caruana Galizia",
+			"email": "m@m.cg"
+		}
+	],
+	"main": "index.js",
+	"repositories": [
+		{
+			"type": "git",
+			"url": "git://github.com/mattcg/zerofill.git"
+		}
+	],
+	"keywords": [
+		"pad",
+		"zeropad",
+		"number"
+	],
+	"licenses": [
+		{
+			"type": "Creative Commons Attribution 3.0 Unported (CC BY 3.0)",
+			"url": "http://creativecommons.org/licenses/by/3.0/legalcode"
+		}
+	],
+	"implements": ["CommonJS/Modules/1.0"]
+}
