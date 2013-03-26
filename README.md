@@ -8,4 +8,4 @@ var zeroFill = require('zerofill');
 zeroFill(1, 3); // '001'
 ```
 
-License: [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/legalcode).
+License: MIT.
