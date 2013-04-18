@@ -22,7 +22,8 @@
 	],
 	"licenses": [
 		{
-			"type": "MIT"
+			"type": "MIT",
+			"url": "http://mattcg.mit-license.org/"
 		}
 	],
 	"implements": ["CommonJS/Modules/1.0"]

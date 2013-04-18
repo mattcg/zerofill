@@ -8,4 +8,4 @@ var zeroFill = require('zerofill');
 zeroFill(1, 3); // '001'
 ```
 
-License: MIT.
+License: [MIT](http://mattcg.mit-license.org/).
