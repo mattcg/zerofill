@@ -2,6 +2,7 @@
 	"name": "zerofill",
 	"version": "0.1.0",
 	"description": "Zero-pad a number to the given size.",
+	"homepage": "https://github.com/mattcg/zerofill",
 	"contributors": [
 		{
 			"name": "Matthew Caruana Galizia",
